@@ -1,6 +1,7 @@
-#:fork_and_knife: Cooky 
+# :fork_and_knife: Cooky 
 Cooky is a website where users may share or discover new recipes and save those who they like the most.
 
-Heroku: https://tramii-cooky-front.herokuapp.com/
+New version: https://github.com/Tramii/cookyMeteor/
 
-Front-end code: https://github.com/Tramii/Cooky-frontHeroku
+Heroku: https://cooky-meteor.herokuapp.com/
+
